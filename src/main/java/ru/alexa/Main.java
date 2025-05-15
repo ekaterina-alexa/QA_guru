@@ -6,6 +6,6 @@ public class Main {
         System.out.println(getMessage());
     }
     private static String getMessage() {
-        return "Hello,, qa.guru!";
+        return "Hello<<<<<, qa.guru!";
     }
     }
